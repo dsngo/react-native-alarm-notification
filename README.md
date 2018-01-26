@@ -8,7 +8,7 @@ React Native Alarm Notification for Android
 
 ## Installation
 
-`yarn add git+https://github.com/geart891/d-rn-al-notification.git`
+`yarn add git+https://github.com/geart891/react-native-alarm-notification.git`
 
 
 ## Android manual Installation
